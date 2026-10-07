@@ -20,11 +20,11 @@ pkg install git -y
 ```
 3. Clone this repo
 ```
-git clone https://github.com/purplemashu/me-cli-sunset
+git clone https://github.com/HzStoreXL/autobuydor
 ```
 4. Open the folder
 ```
-cd me-cli-sunset
+cd autobuydor
 ```
 5. Setup
 ```
